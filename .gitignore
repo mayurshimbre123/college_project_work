@@ -1,0 +1,14 @@
+__pycache__/
+.pytest_cache/
+.ipynb_checkpoints/
+.env
+.env.*
+!.env.example
+*.pkl
+*.pkl.gz
+*.h5
+*.ckpt
+*.joblib
+*.key
+.DS_Store
+projects/soil_moisture_prediction/data/*.csv
