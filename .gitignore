@@ -11,4 +11,5 @@ __pycache__/
 *.joblib
 *.key
 .DS_Store
+# Local/private datasets: publish only after checking licenses and sensitivity
 projects/soil_moisture_prediction/data/*.csv

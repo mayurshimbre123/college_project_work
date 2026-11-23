@@ -1,0 +1,1 @@
+The two CSV files were copied from the original public repository: [results.csv](https://github.com/mayurshimbre123/mayurshimbre/blob/master/results.csv) and [stats (1).csv](https://github.com/mayurshimbre123/mayurshimbre/blob/master/stats%20(1).csv). Their upstream provenance and redistribution licenses have not been established; verify before reuse.

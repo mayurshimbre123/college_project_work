@@ -1,0 +1,1 @@
+Place `t_s1_am_6am.csv` here **only if you have permission** to use and redistribute it. The original IBM/GitHub notebooks referenced this file but the archive did not include it. It is ignored by Git.
